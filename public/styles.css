@@ -1,0 +1,101 @@
+body {
+  background-color: lightblue;
+}
+
+.container {
+  margin-top: 1%;
+}
+
+#homeCarousel {
+  margin-bottom: 4%;
+}
+
+.carouselImg {
+  height: 500px;
+}
+
+.finePrint {
+  font-size: xx-small;
+}
+
+.peopleImgs {
+  height: 400px;
+}
+
+.leonardoImg {
+  float: left;
+  margin-left: 115px;
+}
+
+.michelangeloImg {
+  float: left;
+  margin-left: 195px;
+}
+
+.galileoImg {
+  float: left;
+  margin-left: 220px;
+}
+
+.natureImgs {
+  width: 350px;
+}
+
+.carboniferousImg {
+  float: left;
+  margin-left: 115px;
+}
+
+.jurassicImg {
+  float: left;
+  margin-left: 260px;
+}
+
+.cambrianImg {
+  float: left;
+  margin-left: 305px;
+}
+
+.spaceImgs {
+  height: 250px;
+}
+
+.marsImg {
+  float: left;
+  margin-left: 45px;
+}
+
+.saturnImg {
+  float: left;
+  margin-left: 245px;
+}
+
+.plutoImg {
+  float: left;
+  margin-left: 318px;
+  margin-right: 15px;
+}
+
+.navbar {
+  padding-left: 11%;
+  background-color: aliceblue;
+}
+
+.nav-list {
+  list-style-type: none;
+  padding-left: 10%;
+}
+
+.formDiv {
+  float: right;
+}
+
+.headline {
+  float: right;
+  margin-bottom: 3%;
+}
+
+.scrollBox {
+  height: 350px;
+  overflow-y: scroll;
+}
